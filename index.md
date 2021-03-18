@@ -1,5 +1,5 @@
 ## Welcome to the maxer client
 
-Dowload today for good luck forever
+Dowload today FOR A GOOD CLIENT
 
 
