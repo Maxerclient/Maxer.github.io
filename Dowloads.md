@@ -1,5 +1,5 @@
 title: Dowloads
 layout: template
-filename: Dowloads.md
+filename: /Dowloads.md
 
 ## Welcome to the dowloads page
