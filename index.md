@@ -8,8 +8,7 @@ Dowload today FOR A GOOD CLIENT
       
 <head> 
     <title> 
-        Create an HTML button that 
-        acts like a link 
+        
     </title> 
       
     <!-- Style to create button -->
@@ -29,7 +28,7 @@ Dowload today FOR A GOOD CLIENT
 </head> 
   
 <body> 
-    <h1>GeeksforGeeks</h1> 
+    <h1></h1> 
       
     <!-- Adding link to the button on the onclick event -->
     <button class="GFG" 
