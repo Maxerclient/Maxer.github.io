@@ -7,6 +7,12 @@ Dowload today FOR A GOOD CLIENT
  
    
         
+
+<html> 
+      
+<head> 
+    <title> 
+         
     </title> 
       
     <!-- Style to create button -->
@@ -23,11 +29,16 @@ Dowload today FOR A GOOD CLIENT
             cursor: pointer; 
         } 
     </style> 
-
+</head> 
+  
+<body> 
       
     <!-- Adding link to the button on the onclick event -->
     <button class="GFG" 
     onclick="window.location.href = 'https://ide.geeksforgeeks.org';"> 
-        dowload
+        Dowload Now
     </button> 
+</body> 
+  
+</html>
 
