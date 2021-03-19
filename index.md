@@ -8,8 +8,8 @@ Dowload today FOR A GOOD CLIENT
       
 <head> 
     <title> 
-        Create an HTML button that 
-        acts like a link 
+        
+        
     </title> 
       
     <!-- Style to create button -->
