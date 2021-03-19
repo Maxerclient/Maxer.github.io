@@ -3,12 +3,6 @@
 Dowload today FOR A GOOD CLIENT
 
 
- 
- 
-   
-        
-
-
  <!DOCTYPE html> 
 <html> 
       
@@ -35,7 +29,7 @@ Dowload today FOR A GOOD CLIENT
 </head> 
   
 <body> 
-    <h1></h1> 
+    <h1>GeeksforGeeks</h1> 
       
     <!-- Adding link to the button on the onclick event -->
     <button class="GFG" 
@@ -44,10 +38,10 @@ Dowload today FOR A GOOD CLIENT
     </button> 
 </body> 
   
-</html>.href = 'https://ide.geeksforgeeks.org';"> 
-        Dowload Now
-    </button> 
-</body> 
-  
 </html>
+ 
+ 
+   
+        
+
 
