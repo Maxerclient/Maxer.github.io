@@ -23,17 +23,11 @@ Dowload today FOR A GOOD CLIENT
             cursor: pointer; 
         } 
     </style> 
-</head> 
-  
-<body> 
-    <h1></h1> 
+
       
     <!-- Adding link to the button on the onclick event -->
     <button class="GFG" 
     onclick="window.location.href = 'https://ide.geeksforgeeks.org';"> 
         dowload
     </button> 
-</body> 
-  
-</html>
 
