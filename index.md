@@ -29,7 +29,7 @@ Dowload today FOR A GOOD CLIENT
 </head> 
   
 <body> 
-    <h1>GeeksforGeeks</h1> 
+     
       
     <!-- Adding link to the button on the onclick event -->
     <button class="GFG" 
